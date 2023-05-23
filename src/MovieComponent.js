@@ -6,7 +6,7 @@ const movies = [
     director: "Lana Wachowski",
     rating: "R",
     runTime: 136,
-    poster: ""
+    poster: "https://m.media-amazon.com/images/I/71PfZFFz9yL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const movies = [
     director: "Peter Jackson",
     rating: "PG-13",
     runTime: 178,
-    poster: "https://m.media-amazon.com/images/I/71PfZFFz9yL._AC_UL480_FMwebp_QL65_.jpg"
+    poster: "https://m.media-amazon.com/images/I/81lD6R3Yu6L._AC_SY550_.jpg"
   },
   {
     id: 3,
