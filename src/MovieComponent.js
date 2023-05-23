@@ -64,7 +64,7 @@ const movies = [
   }
 ];
 
-const MovieComponent = => {
+const MovieComponent = () => {
 
   return (
     <div className="container">
